@@ -1,0 +1,18 @@
+.container {
+  min-width: 335px;
+  padding-bottom: 24px;
+  margin: 0 auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 704px;
+  }
+}
+@media (min-width: 1440px) {
+  .container {
+    width: 1064px;
+    height: 812px;
+    margin: 0;
+    padding: 0;
+  }
+}
