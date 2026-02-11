@@ -19,7 +19,7 @@
     "formik": "^2.4.6",
     "google": "^2.1.0",
     "modern-normalize": "^3.0.1",
-    "next": "15.5.2",
+    "next": "^16.1.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-flatpickr": "^4.0.11",
